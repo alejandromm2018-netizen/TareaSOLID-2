@@ -1,1 +1,2 @@
 # TareaSOLID-2
+me voy a guiar con base al ejemplo que el profesor nos dio en clase, el principio de inversion de dependencia en base a este codigo es por ejemplo si se necesita enviar una factura por email pues solo se realizara esa funcion y no se tiene que ejecutar ninguna otra para que se realice la que queremos en especifico, el polimorfismo tiene bastante protagonismo se podria decir es un buen ejemplo, ya que se ejecutara dependiendo de como se comporte la clase y solo se realizara lo que el usuario necesite 
